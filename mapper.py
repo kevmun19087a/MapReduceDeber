@@ -2,7 +2,6 @@ import sys
 
 filename = sys.argv[1]
 
-# Horario laboral: 08:00:00 a 18:00:00 (ambos límites incluidos como "dentro")
 HORA_INICIO = "08:00:00"
 HORA_FIN = "18:00:00"
 
